@@ -1,8 +1,10 @@
 
 
-# Background:
+# This Repository:
 
-
+The Pandas library was explored and practiced over the curriculm of the KU Data Visualization Certification. This repository contains two projects in which utilize Pandas methods in order to visualize data in a user friendly manner. These data frames were manipulated in order to give a deeper analysis on the data.
+In this course only one of the projects were required but both have been completed in order to obtain a deeper grasp of the Pandas library and its powerful capabilities. These projects have been saved and can be easily referenced when a task requires their needs.
+Each of the projects are described in detail below. The completed solutions can be found in each of the projects resctive folders.
 
 
 ## Option 1: Heroes of Pymoli (Background Information)
