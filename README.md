@@ -2,12 +2,13 @@
 
 # This Repository:
 
-The Pandas library was explored and practiced over the curriculm of the KU Data Visualization Certification. This repository contains two projects in which utilize Pandas methods in order to visualize data in a user friendly manner. These data frames were manipulated in order to give a deeper analysis on the data.
+Background Story - 
+"The Pandas library was explored and practiced over the curriculm of the KU Data Visualization Certification. This repository contains two projects in which utilize Pandas methods in order to visualize data in a user friendly manner. These data frames were manipulated in order to give a deeper analysis on the data.
 In this course only one of the projects were required but both have been completed in order to obtain a deeper grasp of the Pandas library and its powerful capabilities. These projects have been saved and can be easily referenced when a task requires their needs.
-Each of the projects are described in detail below. The completed solutions can be found in each of the projects resctive folders.
+Each of the projects are described in detail below. The completed solutions can be found in each of the projects resctive folders."
 
 
-## Option 1: Heroes of Pymoli (Background Information)
+## Project 1: "Heroes of Pymoli"
 
 ![Fantasy](Images/Fantasy.png)
 
@@ -78,13 +79,14 @@ In the final report, each of the following tasks were completed using Pandas dat
 
 
 
-## Option 2: PyCitySchools (Background Information)
+## Project 2: PyCitySchools
 
 ![Education](Images/education.png)
 
-Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
+Background Story -
+"Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
+As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance."
 
 In the final report, each of the following tasks were completed using Pandas data frame manipulation:
 
